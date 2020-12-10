@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Updated Unity Examples",
+"productName": "Zappar",
 "productVersion": "0.1",
 "dataUrl": "webgl-dist.data.unityweb",
 "wasmCodeUrl": "webgl-dist.wasm.code.unityweb",
