@@ -11,3 +11,5 @@ This repository contains a set of examples for Zappar for Unity. For more inform
 | face-tracking-physics | https://github.com/zappar-xr/unity-example-face-tracking-physics/ |
 | image-tracking-3d-animation | https://github.com/zappar-xr/unity-example-image-tracking-3d-animation/ |
 | instant-tracking-3d-model | https://github.com/zappar-xr/unity-example-instant-tracking-3d-model/ |
+| instant-tracking-particle-systems | https://github.com/zappar-xr/unity-example-instant-tracking-particle-systems/ |
+| instant-tracking-real-time-reflections | https://github.com/zappar-xr/unity-example-instant-tracking-real-time-reflections/ |
